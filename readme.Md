@@ -8,6 +8,7 @@
   "FFlagDebugEnableNewWebView2DevTool": "True",
   "FFlagEnableBetterHapticsResultHandling": "True",
   "DFIntConnectionMTUSize": "900",
-  "DFIntDefaultTimeoutTimeMs": "2147483647"
+  "DFIntDefaultTimeoutTimeMs": "2147483647",
+  "DFIntS2PhysicsSenderRate": "4"
 }
 ```
