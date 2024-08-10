@@ -8,6 +8,7 @@
   "DFIntReplicatorAnimationTrackLimitPerAnimator": "-1",
   "FFlagDebugEnableNewWebView2DevTool": "True",
   "FFlagEnableBetterHapticsResultHandling": "True",
-  "DFIntConnectionMTUSize": "900"
+  "DFIntConnectionMTUSize": "900",
+  "DFIntDefaultTimeoutTimeMs": "2147483647"
 }
 ```
