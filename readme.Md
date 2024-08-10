@@ -9,6 +9,7 @@
   "FFlagEnableBetterHapticsResultHandling": "True",
   "DFIntConnectionMTUSize": "900",
   "DFIntDefaultTimeoutTimeMs": "2147483647",
-  "DFIntS2PhysicsSenderRate": "4"
+  "DFIntS2PhysicsSenderRate": "4",
+  "FFlagGameBasicSettingsFreeCamera": "True"
 }
 ```
