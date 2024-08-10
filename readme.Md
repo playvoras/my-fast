@@ -7,6 +7,7 @@
   "FStringDebugLuaLogPattern": "ExpChat/mountClientApp",
   "DFIntReplicatorAnimationTrackLimitPerAnimator": "-1",
   "FFlagDebugEnableNewWebView2DevTool": "True",
-  "FFlagEnableBetterHapticsResultHandling": "True"
+  "FFlagEnableBetterHapticsResultHandling": "True",
+  "DFIntConnectionMTUSize": "900"
 }
 ```
